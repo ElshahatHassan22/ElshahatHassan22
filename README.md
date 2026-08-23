@@ -31,7 +31,4 @@ I'm a Computer Science student passionate about building clean software and desi
 ---
 
 ### 📬 Connect With Me
-  <a href="mailto:shehaelkobtan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+* 📧 **Email:** [your_email@gmail.com](mailto:shehaelkobtan@gmail.com)
