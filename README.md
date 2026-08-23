@@ -33,7 +33,7 @@ I'm a Computer Science student passionate about building clean software and desi
 ### 📬 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/Elshahat Hassan" target="_blank">
+  <a href="https://linkedin.com/in/(https://www.linkedin.com/in/elshahat-hassan-45a399299/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:shehaelkobtan@gmail.com">
